@@ -71,7 +71,7 @@ http://localhost:3000/users?name=Harikal&email=doodiharika21@gmail.com&age=21
 - Age validation
 
 ## Example Success Response
-'''json
+
 {
   "success": true,
   "message": "Validation successful",
