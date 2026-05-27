@@ -11,7 +11,7 @@ A beginner-friendly backend API project built using Node.js and Express.js.
 - JSON responses
 - Express.js routing
 - REST API basics
-- 
+
 ## Technologies Used
 
 - Node.js
@@ -71,8 +71,6 @@ http://localhost:3000/users?name=Harikal&email=doodiharika21@gmail.com&age=21
 - Age validation
 
 ## Example Success Response
-
-```json
 {
   "success": true,
   "message": "Validation successful",
@@ -85,12 +83,7 @@ http://localhost:3000/users?name=Harikal&email=doodiharika21@gmail.com&age=21
 
 ## Example Error Response
 
-```json
 {
   "success": false,
   "message": "All fields are required"
 }
-
-## GitHub Repository
-
-https://github.com/doodiharika21-cmd/Decodelabs_project2
