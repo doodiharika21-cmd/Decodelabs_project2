@@ -61,7 +61,7 @@ GET /users
 
 Example:
 
-http://localhost:3000/users?name=Rahul&email=rahul@example.com&age=22
+http://localhost:3000/users?name=Harikal&email=doodiharika21@gmail.com&age=21
 
 ## Validation Features
 
